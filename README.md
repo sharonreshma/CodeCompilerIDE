@@ -1,6 +1,6 @@
 # Online Coding IDE: Code Forger
 
-Explore my latest project: an online coding IDE built using ReactJS. This IDE offers real-time code editing, multi-language support, and a seamless user interface for all developers.
+Explore my latest project Code Forger: an online coding IDE built using ReactJS. This IDE offers real-time code editing, multi-language support, and a seamless user interface for all developers.
 
 ## Features
 - Real-time code editor
